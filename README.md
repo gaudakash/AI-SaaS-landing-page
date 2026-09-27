@@ -149,9 +149,9 @@ How it stays fast: static prerendering (`○`) for the landing page and blog ind
 
 ## Screenshots
 
-| Hero (dark)                                        | Hero (light)                                              |
-| -------------------------------------------------- | --------------------------------------------------------- |
-| <img src="./public/readme/hero.png" width="420" /> | <img src="./public/readme/hero-light.webp" width="420" /> |
+| Hero (dark)                                        | Hero (light)                                             |
+| -------------------------------------------------- | -------------------------------------------------------- |
+| <img src="./public/readme/hero.png" width="420" /> | <img src="./public/readme/hero-light.png" width="420" /> |
 
 | Pricing                                               | Blog post + OG image                             |
 | ----------------------------------------------------- | ------------------------------------------------ |
