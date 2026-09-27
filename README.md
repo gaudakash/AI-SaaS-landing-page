@@ -5,8 +5,8 @@
 **A production-ready AI-tool landing page built with Next.js 16, Tailwind CSS v4 and Framer Motion.**  
 Dark/light mode · Animated pricing toggle · MDX blog · Live waitlist · Stripe-ready · SEO optimized · Tested end-to-end.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-ff5a1f?style=for-the-badge&logo=vercel)](https://<your-project>.vercel.app)
-[![CI](https://github.com/<your-username>/ai-saas-landing/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/ai-saas-landing/actions/workflows/ci.yml)
+[![Live Demo](https://img.shields.io/badge/demo-live-ff5a1f?style=for-the-badge&logo=vercel)]([https://<your-project>.vercel.app](https://ai-saas-landing-page-seven.vercel.app/))
+[![CI](https://github.com/<your-username>/ai-saas-landing/actions/workflows/ci.yml/badge.svg)](https://github.com/gaudakash/AI-SaaS-landing-page.git)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-v4-06B6D4?logo=tailwindcss&logoColor=white)
