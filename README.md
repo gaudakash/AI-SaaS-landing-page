@@ -141,7 +141,7 @@ Lighthouse (production build, Chrome Incognito, desktop):
 
 | Performance | Accessibility | Best Practices |    SEO    |
 | :---------: | :-----------: | :------------: | :-------: |
-|  **<99>**   |   **<100>**   |   **<100>**    | **<100>** |
+|  **<99>**   |   **<99>**   |   **<100>**    | **<100>** |
 
 How it stays fast: static prerendering (`○`) for the landing page and blog index, `next/font` (zero layout shift), `next/image` with explicit dimensions, no client JS above the fold except the hero animation, code-split sections.
 
