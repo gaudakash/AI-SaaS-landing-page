@@ -137,7 +137,7 @@ It was built as a freelance portfolio piece to demonstrate the kind of landing p
 
 Lighthouse (production build, Chrome Incognito, desktop):
 
-<img src="./public/readme/lighthouse.png" alt="Lighthouse scores" width="600" />
+<img src="./public/readme/Lighthouse.png" alt="Lighthouse scores" width="600" />
 
 | Performance | Accessibility | Best Practices |    SEO    |
 | :---------: | :-----------: | :------------: | :-------: |
